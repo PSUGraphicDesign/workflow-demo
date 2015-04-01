@@ -1,7 +1,7 @@
 <?php if(!defined('KIRBY')) exit ?>
 
 title: Digital Services
-pages: false
+pages: true
 files: true
 fields:
   title:
