@@ -10,7 +10,7 @@ fields:
 
   website:
   	label: Link
-     type: url
+    type: url
 
   founded:
     label: Date Founded
@@ -38,9 +38,3 @@ fields:
     options:
       free: Free with ads
       paid: Subscription based no ads
-
-
-
-
-
-
