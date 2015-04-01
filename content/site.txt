@@ -1,0 +1,9 @@
+Title: ART440
+----
+Author: Class of ART440
+----
+Description: A quick demo on Git workflow for ART440.
+----
+Keywords: Art, Technology, Git, Education
+----
+Footer: That's all, folks!
