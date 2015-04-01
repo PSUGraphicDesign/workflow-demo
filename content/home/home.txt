@@ -1,4 +1,6 @@
 Title: Home
 ----
 Text:
-This is our main page.
+When we're done, there will be a menu just above this that is built dynamically from the pages we'll create.
+
+Before we get started, let's take a look at the `blueprints`, `templates` and `snippets` folders.

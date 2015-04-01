@@ -2,8 +2,8 @@
 ### Git Workflow Demo
 
 We'll do a few things, today:
-1. Fork this repository
-2. Clone it to your own computer
+1. Clone this repository to your own computer
+2. Create your own branch
 3. Make some changes
-4. Push them back into your own repository
+4. Publish your branch
 5. Issue a Pull Request

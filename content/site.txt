@@ -6,4 +6,4 @@ Description: A quick demo on Git workflow for ART440.
 ----
 Keywords: Art, Technology, Git, Education
 ----
-Footer: That's all, folks!
+Footer: Spring, 2015
