@@ -8,29 +8,23 @@ fields:
     label: Title
     type:  text
    
-
-website:
-  label: link
-  type: url
-
+  website:
+    label: link
+    type: url
 
   text: 
     label: Text
     type:  textarea
 
-  images:
-    label:link
+  gallery:
+    label: Link to Gallery of Player Images
     website: url
 
-    fields:
   categories:
     label: Categories
     type: checkboxes
-    default: architecture
+    default: positions
     options:
-      design: Design
-      architecture: Architecture
-      photography: Photography
-      3d: 3D
-      web: Web
+      Catcher: Catcher
+      First Baseman: First Baseman
 
