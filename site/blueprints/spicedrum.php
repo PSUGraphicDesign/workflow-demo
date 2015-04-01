@@ -18,25 +18,25 @@ fields:
 
   country_origin:
     label: Country of Origin
-    type: textarea
+    type: text
 
   flavor:
     label: Flavors
     type: select
     options:
-      cruzan: Cruzan 9
-      captain: Captain Morgan
-      kracken: The Kracken
-      sailor: Sailor Jerry
+      Cruzan 9: Cruzan 9
+      Captain Morgan: Captain Morgan
+      The Kracken: The Kracken
+      Sailor Jerry: Sailor Jerry
 
   drinks:
     label: Drink Recipes
     type: select
     options:
-      cruzan: Cruzan 9
-      captain: Captain Morgan
-      kracken: The Kracken
-      sailor: Sailor Jerry
+      Cruzan 9: Cruzan 9
+      Captain Morgan: Captain Morgan
+      The Kracken: The Kracken
+      Sailor Jerry: Sailor Jerry
 
   email:
     label: Contact
