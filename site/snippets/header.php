@@ -10,6 +10,8 @@
   <meta name="keywords" content="<?= $site->keywords()->html() ?>">
   <meta name="author" content="<?= $site->author()->html() ?>">
 
+  <?= css('assets/css/workflow-demo.css') ?>
+
 </head>
 <body class="<?= $page->template() ?>">
 
