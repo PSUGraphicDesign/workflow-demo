@@ -5,15 +5,15 @@ pages: false
 files: true
 fields:
   title:
-    label: Title
+    label: Rum Name
     type:  text
     
   website:
-    label: Link
+    label: Distillery's Website
     type: url
 
   history:
-    label: History of Spiced Rum
+    label: History
     type: textarea
 
   country_origin:
@@ -21,22 +21,26 @@ fields:
     type: text
 
   flavor:
-    label: Flavors
-    type: select
-    options:
-      Cruzan 9: Cruzan 9
-      Captain Morgan: Captain Morgan
-      The Kracken: The Kracken
-      Sailor Jerry: Sailor Jerry
+    label: Tasting Notes
+    type: textarea
 
   drinks:
     label: Drink Recipes
-    type: select
-    options:
-      Cruzan 9: Cruzan 9
-      Captain Morgan: Captain Morgan
-      The Kracken: The Kracken
-      Sailor Jerry: Sailor Jerry
+    type: structure
+    entry: >
+      <p><strong>{{name}}</strong></p>
+      <p><em>{{ingredients}}</em></p>
+      <p>{{instructions}}</p>
+    fields:
+      name:
+        label: Drink Name
+        type: text
+      ingredients:
+        label: Ingredient List
+        type: textarea
+      instructions:
+        label: Mixing Instructions
+        type: textarea
 
   email:
     label: Contact
