@@ -1,0 +1,39 @@
+Title: Pandora
+
+----
+
+Website: www.pandora.com
+
+----
+
+Founded: 2000-01-01
+
+----
+
+History: 
+
+is a music streaming and automated music recommendation service powered by the Music Genome Project. The service, operated by Pandora Media, Inc., is only available in the United States, Australia and New Zealand. The service plays musical selections of a certain genre based on the user's artist selection. The user then provides positive or negative feedback for songs chosen by the service, which are taken into account when Pandora selects future songs.
+
+While listening, users are offered the ability to buy the songs or albums at various online retailers. Over 400 different musical attributes are considered when selecting the next song. These 400 attributes are combined into larger groups called focus traits. There are 2,000 focus traits. Examples of these are rhythm syncopation, key tonality, vocal harmonies, and displayed instrumental proficiency.
+
+The Pandora media player is based on OpenLaszlo. Pandora can also be accessed through many media streaming devices such as Roku, Reciva-based radios (from companies like Grace Digital, Sanyo, and Sangean), Frontier Silicon-based connected audio systems, Slim Devices, Sonos, and HEOS by Denon. product(s). On July 11, 2008, Pandora launched a mobile version of their software for the Apple iPhone and iPod Touch through the iTunes App Store. Pandora is also available for Windows Phone, Android phones, BlackBerry platforms, HP webOS (used on the Palm Pre, Palm Pixi, Palm Pre 2, and HP Veer). Pandora was the provider for MSN Radio until MSN discontinued their internet radio service on June 18, 2008.[8] A modified version of Pandora has been made available for Sprint Nextel. Pandora is available on Comcast's X1/X2 cable TV products.
+
+----
+
+Active-users: 250 million
+
+----
+
+Subscription-features: 
+
+No Ads: Enjoy your personalized radio completely free of all ads
+More Skips - Hear the music or comedy you want with more daily skips
+Fewer timeouts - Listen for longer periods of time without the worry of your station pausing
+
+----
+
+Subscription-cost: $4.99
+
+----
+
+Options: free, paid
