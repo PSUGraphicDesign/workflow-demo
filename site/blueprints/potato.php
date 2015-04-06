@@ -1,6 +1,6 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: Page
+title: Potato
 pages: true
 files: true
 fields:
@@ -9,19 +9,19 @@ fields:
     type:  text
 
   history:
-    label: About this spud
+    label: About
     type: textarea
 
-  country_origin:
+  origin:
     label: Country of Origin
     type: text
     
-  prepping_process:
+  preparation:
     label: Ways to Prep
     type:  textarea
 
-  dish_list:
-    label: Dishes
+  dishes:
+    label: Popular Dishes
     type: textarea
 
 
