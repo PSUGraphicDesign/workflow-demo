@@ -1,0 +1,11 @@
+// Context Targeting
+@mixin mobile
+  @media screen and (max-width: 640px)
+    @content
+
+// Layout
+@mixin clearfix
+  &::after
+    clear: both
+    display: table
+    content: ''
