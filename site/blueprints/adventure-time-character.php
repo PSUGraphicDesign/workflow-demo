@@ -12,9 +12,9 @@ fields:
     label: Role of Character
     type:  Text
     
-  author:
-    label: Author
-    type: User
+  voice:
+    label: Voice Actor
+    type: text
 
   date:
     label: Date
@@ -22,9 +22,17 @@ fields:
 
   info:
     label: Info
-    type: Info
-    text: >
+    type: textarea
 
   episodes:
-    label: episodes
-    type: textarea
+    label: Episode List
+    type: structure
+    entry: >
+      <strong>Season</strong> {{season}}, <strong>Episode</strong> {{episode}}
+    fields:
+      season:
+        label: Season
+        type: number
+      episode:
+        label: Episode
+        type: number
