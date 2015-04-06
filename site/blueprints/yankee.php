@@ -1,15 +1,15 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: New York Yankees
+title: New York Yankee Player
 pages: false
 files: true
 fields:
   title:
-    label: Title
+    label: Player Name
     type:  text
    
   website:
-    label: link
+    label: Link to More Player Info
     type: url
 
   text: 
@@ -17,13 +17,12 @@ fields:
     type:  textarea
 
   gallery:
-    label: Link to Gallery of Player Images
+    label: Link to Gallery of Player Photographs
     website: url
 
   categories:
-    label: Categories
+    label: Positions
     type: checkboxes
-    default: positions
     options:
       Catcher: Catcher
       First Baseman: First Baseman
