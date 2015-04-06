@@ -1,35 +1,50 @@
 <?php if(!defined('KIRBY')) exit ?>
 
-title: plant options
+title: Plant
 pages: false
 files: true
 fields:
   title:
-    label: Title
+    label: Plant Name (Common)
     type: text
+    width: 1/2
+
+  taxonomical_name:
+    label: Plant Name (Taxonomical)
+    type: text
+    width: 1/2
 
   about:
-    label: Text
-    type: textarea     
+    label: About
+    type: textarea
 
   resources:
     label: link
-    type: url 
+    type: url
 
   type:
-    label: Categories
-    type: checkboxes
-          
+    label: Plant Type
+    type: radio
+    options:
+      Houseplant: Houseplant
+      Evergreen: Evergreen
+      Deciduous: Deciduous
+      Succulent: Succulent
+      Greenhouse: Greenhouse
+      Vine: Vine
+
   growth:
     label: Grows Best In?
-    type: toggle
-    text: sun/shade
+    type: radio
+    options:
+      Sun: Sun
+      Shade: Shade
 
   when_to_plant:
     label: Best Time to Plant
     type: select
-      options:
-        summer: Summer
-        fall: Fall 
-        winter: Winter
-        spring: Spring
+    options:
+      summer: Summer
+      fall: Fall 
+      winter: Winter
+      spring: Spring
