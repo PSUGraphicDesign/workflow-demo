@@ -3,3 +3,5 @@ assets/css
 site/accounts
 site/cache
 thumbs
+
+.htaccess
