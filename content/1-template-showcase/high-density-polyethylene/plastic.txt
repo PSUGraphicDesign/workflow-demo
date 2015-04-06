@@ -1,0 +1,17 @@
+Title: High Density Polyethylene
+
+----
+
+Number: 2
+
+----
+
+Recyclable: true
+
+----
+
+Reuse: true
+
+----
+
+Info: High-density polyethylene (HDPE) or polyethylene high-density (PEHD) is a polyethylene thermoplastic made from petroleum. It is sometimes called "alkathene" or "polythene" when used for pipes. With a high strength-to-density ratio, HDPE is used in the production of plastic bottles, corrosion-resistant piping, geomembranes, and plastic lumber. HDPE is commonly recycled, and has the number "2" as its resin identification code (formerly known as recycling symbol).
