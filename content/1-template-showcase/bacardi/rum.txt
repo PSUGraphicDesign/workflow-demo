@@ -1,0 +1,40 @@
+Title: Bacardi
+
+----
+
+Website: http://www.bacardi.com/us/lda
+
+----
+
+History: Bacardi Limited is the largest privately held, family-owned spirits company in the world. Originally known for its eponymous Bacardi white rum, it now has a portfolio of more than 200 brands and labels.[4] Founded in 1862, and family-owned for seven generations, Bacardi employs 6,000 people, manufactures at 27 facilities in 16 markets on four continents, with sales in more than 150 countries. Bacardi Limited refers to the Bacardi group of companies, including Bacardi International Limited.[5] The company sells in excess of 200 million bottles per year.[6] The company's sales in 2007 were US$5.5 billion, up from $4.9 billion in 2006.
+
+----
+
+Country-origin: Cuba
+
+----
+
+Flavor: Notes of brown sugar, honey and burnt vanilla custard with a short, lightly cinnamony finish.
+
+----
+
+Drinks: 
+
+- 
+  name: Cuba Libre
+  ingredients: |
+    1. 4 oz Cola
+    
+    2. 1/3 oz Fresh lime juice
+    
+    3. 1 2/3 oz White rum
+  instructions: |
+    Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.
+    
+    Served: On the rocks; poured over ice.
+    
+    Drinkware: Highball glass
+
+----
+
+Email: drink@bacardi.com
