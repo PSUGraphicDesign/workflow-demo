@@ -8,3 +8,5 @@ We'll do a few things, today:
 3. Make some changes
 4. Publish your branch
 5. Issue a Pull Request
+
+In our second session, we'll extend our work with [Blueprints](http://getkirby.com/docs/panel/blueprints) by looking at the forms they create within the [Panel](http://getkirby.com/docs/panel), and how to use the information we enter in [Templates](http://getkirby.com/docs/templates).
